@@ -1,0 +1,209 @@
+--------------------------------------------------------------------------------
+
+---------------------------------- transcript ----------------------------------
+Number of gene                                              20261
+Number of transcript                                        20788
+Number of mrnas with utr both sides                         6449
+Number of mrnas with at least one utr                       13040
+Number of cds                                               19816
+Number of exon                                              173498
+Number of five_prime_utr                                    8094
+Number of three_prime_utr                                   11395
+Number of exon in cds                                       164969
+Number of exon in five_prime_utr                            12561
+Number of exon in three_prime_utr                           14264
+Number of intron in cds                                     145153
+Number of intron in exon                                    152711
+Number of intron in five_prime_utr                          4467
+Number of intron in three_prime_utr                         2869
+Number gene overlapping                                     1885
+Number of single exon gene                                  2126
+Number of single exon transcript                            2128
+mean transcripts per gene                                   1.0
+mean cdss per transcript                                    1.0
+mean exons per transcript                                   8.3
+mean five_prime_utrs per transcript                         0.4
+mean three_prime_utrs per transcript                        0.5
+mean exons per cds                                          8.3
+mean exons per five_prime_utr                               1.6
+mean exons per three_prime_utr                              1.3
+mean introns in cdss per transcript                         7.0
+mean introns in exons per transcript                        7.3
+mean introns in five_prime_utrs per transcript              0.2
+mean introns in three_prime_utrs per transcript             0.1
+Total gene length (bp)                                      394779953
+Total transcript length (bp)                                403648387
+Total cds length (bp)                                       28301850
+Total exon length (bp)                                      42429077
+Total five_prime_utr length (bp)                            2326132
+Total three_prime_utr length (bp)                           11723580
+Total intron length per cds (bp)                            342206325
+Total intron length per exon (bp)                           361210011
+Total intron length per five_prime_utr (bp)                 13918422
+Total intron length per three_prime_utr (bp)                4383202
+mean gene length (bp)                                       19485
+mean transcript length (bp)                                 19417
+mean cds length (bp)                                        1428
+mean exon length (bp)                                       245
+mean five_prime_utr length (bp)                             287
+mean three_prime_utr length (bp)                            1029
+mean cds piece length (bp)                                  172
+mean five_prime_utr piece length (bp)                       185
+mean three_prime_utr piece length (bp)                      822
+mean intron in cds length (bp)                              2358
+mean intron in exon length (bp)                             2365
+mean intron in five_prime_utr length (bp)                   3116
+mean intron in three_prime_utr length (bp)                  1528
+median gene length (bp)                                     11845
+median transcript length (bp)                               11939
+median cds length (bp)                                      127
+median exon length (bp)                                     134
+median five_prime_utr length (bp)                           120
+median three_prime_utr length (bp)                          495
+median cds piece length (bp)                                127
+median five_prime_utr piece length (bp)                     120
+median three_prime_utr piece length (bp)                    495
+median intron in cds length (bp)                            1270
+median intron in exon length (bp)                           1266
+median intron in five_prime_utr length (bp)                 1526
+median intron in three_prime_utr length (bp)                818
+90 percentile gene length (bp)                              46933
+90 percentile transcript length (bp)                        46920
+90 percentile cds length (bp)                               253
+90 percentile exon length (bp)                              420
+90 percentile five_prime_utr length (bp)                    395
+90 percentile three_prime_utr length (bp)                   2040
+90 percentile cds piece length (bp)                         253
+90 percentile five_prime_utr piece length (bp)              395
+90 percentile three_prime_utr piece length (bp)             2040
+90 percentile intron in cds length (bp)                     5403
+90 percentile intron in exon length (bp)                    5441
+90 percentile intron in five_prime_utr length (bp)          7881
+90 percentile intron in three_prime_utr length (bp)         3469
+Longest gene (bp)                                           1355694
+Longest transcript (bp)                                     438221
+Longest cds (bp)                                            72183
+Longest exon (bp)                                           17661
+Longest five_prime_utr (bp)                                 21666
+Longest three_prime_utr (bp)                                13681
+Longest cds piece (bp)                                      17661
+Longest five_prime_utr piece (bp)                           7260
+Longest three_prime_utr piece (bp)                          13681
+Longest intron into cds part (bp)                           194130
+Longest intron into exon part (bp)                          194130
+Longest intron into five_prime_utr part (bp)                88726
+Longest intron into three_prime_utr part (bp)               38814
+Shortest gene (bp)                                          28
+Shortest transcript (bp)                                    28
+Shortest cds piece (bp)                                     1
+Shortest five_prime_utr piece (bp)                          1
+Shortest three_prime_utr piece (bp)                         1
+Shortest intron into cds part (bp)                          1
+Shortest intron into exon part (bp)                         1
+Shortest intron into five_prime_utr part (bp)               7
+Shortest intron into three_prime_utr part (bp)              1
+
+transcript have isoforms! Here are the statistics without isoforms shortest isoforms excluded):
+
+Number of gene                                              20261
+Number of transcript                                        20262
+Number of mrnas with utr both sides                         6187
+Number of mrnas with at least one utr                       12548
+Number of cds                                               19290
+Number of exon                                              166416
+Number of five_prime_utr                                    7750
+Number of three_prime_utr                                   10985
+Number of exon in cds                                       159230
+Number of exon in five_prime_utr                            11543
+Number of exon in three_prime_utr                           13194
+Number of intron in cds                                     139940
+Number of intron in exon                                    146155
+Number of intron in five_prime_utr                          3793
+Number of intron in three_prime_utr                         2209
+Number gene overlapping                                     1873
+Number of single exon gene                                  2126
+Number of single exon transcript                            2126
+mean transcripts per gene                                   1.0
+mean cdss per transcript                                    1.0
+mean exons per transcript                                   8.2
+mean five_prime_utrs per transcript                         0.4
+mean three_prime_utrs per transcript                        0.5
+mean exons per cds                                          8.3
+mean exons per five_prime_utr                               1.5
+mean exons per three_prime_utr                              1.2
+mean introns in cdss per transcript                         6.9
+mean introns in exons per transcript                        7.2
+mean introns in five_prime_utrs per transcript              0.2
+mean introns in three_prime_utrs per transcript             0.1
+Total gene length (bp)                                      392486729
+Total transcript length (bp)                                392496028
+Total cds length (bp)                                       27462750
+Total exon length (bp)                                      40776861
+Total five_prime_utr length (bp)                            2116366
+Total three_prime_utr length (bp)                           11120230
+Total intron length per cds (bp)                            334624831
+Total intron length per exon (bp)                           351709868
+Total intron length per five_prime_utr (bp)                 12838306
+Total intron length per three_prime_utr (bp)                3558483
+mean gene length (bp)                                       19372
+mean transcript length (bp)                                 19371
+mean cds length (bp)                                        1424
+mean exon length (bp)                                       245
+mean five_prime_utr length (bp)                             273
+mean three_prime_utr length (bp)                            1012
+mean cds piece length (bp)                                  172
+mean five_prime_utr piece length (bp)                       183
+mean three_prime_utr piece length (bp)                      843
+mean intron in cds length (bp)                              2391
+mean intron in exon length (bp)                             2406
+mean intron in five_prime_utr length (bp)                   3385
+mean intron in three_prime_utr length (bp)                  1611
+median gene length (bp)                                     11832
+median transcript length (bp)                               11831
+median cds length (bp)                                      127
+median exon length (bp)                                     135
+median five_prime_utr length (bp)                           120
+median three_prime_utr length (bp)                          522
+median cds piece length (bp)                                127
+median five_prime_utr piece length (bp)                     120
+median three_prime_utr piece length (bp)                    522
+median intron in cds length (bp)                            1286
+median intron in exon length (bp)                           1286
+median intron in five_prime_utr length (bp)                 1620
+median intron in three_prime_utr length (bp)                852
+90 percentile gene length (bp)                              46904
+90 percentile transcript length (bp)                        46904
+90 percentile cds length (bp)                               254
+90 percentile exon length (bp)                              423
+90 percentile five_prime_utr length (bp)                    396
+90 percentile three_prime_utr length (bp)                   2071
+90 percentile cds piece length (bp)                         254
+90 percentile five_prime_utr piece length (bp)              396
+90 percentile three_prime_utr piece length (bp)             2071
+90 percentile intron in cds length (bp)                     5486
+90 percentile intron in exon length (bp)                    5543
+90 percentile intron in five_prime_utr length (bp)          8859
+90 percentile intron in three_prime_utr length (bp)         3874
+Longest gene (bp)                                           438221
+Longest transcript (bp)                                     438221
+Longest cds (bp)                                            72183
+Longest exon (bp)                                           17661
+Longest five_prime_utr (bp)                                 21666
+Longest three_prime_utr (bp)                                13681
+Longest cds piece (bp)                                      17661
+Longest five_prime_utr piece (bp)                           5817
+Longest three_prime_utr piece (bp)                          13681
+Longest intron into cds part (bp)                           194130
+Longest intron into exon part (bp)                          194130
+Longest intron into five_prime_utr part (bp)                88726
+Longest intron into three_prime_utr part (bp)               38814
+Shortest gene (bp)                                          28
+Shortest transcript (bp)                                    28
+Shortest cds piece (bp)                                     1
+Shortest five_prime_utr piece (bp)                          1
+Shortest three_prime_utr piece (bp)                         1
+Shortest intron into cds part (bp)                          4
+Shortest intron into exon part (bp)                         1
+Shortest intron into five_prime_utr part (bp)               7
+Shortest intron into three_prime_utr part (bp)              1
+
