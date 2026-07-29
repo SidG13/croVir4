@@ -1,0 +1,17 @@
+diamond blastp -q croVir4_venom_proteins.fasta -d croVir3_prot_db.dmnd \
+  --outfmt 6 qseqid sseqid pident length mismatch gapopen \
+  qstart qend sstart send evalue bitscore qlen slen \
+  --max-target-seqs 0 --evalue 1e-3 \
+  -o croVir4_vs_croVir3_full.tsv
+
+cut -f2 croVir4_vs_croVir3_full.tsv | sort -u > croVir3_hit_ids.txt
+
+seqkit grep -f croVir3_hit_ids.txt CroVir_rnd1.all.maker.proteins.final.fasta > croVir3_hits_subset.fasta
+
+diamond makedb --in croVir4_venom_proteins.fasta -d croVir4_prot_db
+
+diamond blastp -q croVir3_hits_subset.fasta -d croVir4_prot_db.dmnd \
+  --outfmt 6 qseqid sseqid pident length mismatch gapopen \
+  qstart qend sstart send evalue bitscore qlen slen \
+  --max-target-seqs 0 --evalue 1e-3 \
+  -o croVir3_vs_croVir4_full.tsv
